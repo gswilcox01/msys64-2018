@@ -1,0 +1,19 @@
+%FILES%
+etc/
+etc/colordiffrc
+usr/
+usr/bin/
+usr/bin/cdiff
+usr/bin/colordiff
+usr/share/
+usr/share/licenses/
+usr/share/licenses/colordiff/
+usr/share/licenses/colordiff/COPYING
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/cdiff.1.gz
+usr/share/man/man1/colordiff.1.gz
+
+%BACKUP%
+etc/colordiffrc	290a98e14695806a0ded02386b44b2c0
+
